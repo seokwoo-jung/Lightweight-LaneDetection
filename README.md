@@ -1,4 +1,7 @@
 # Lightweight-LaneDetection
+Codes for  ["Towards Lightweight Lane Detection by Optimizing Spatial Embedding"](https://arxiv.org/abs/2008.08311)
+
+will be uploaded soon.
 
 
 # News
