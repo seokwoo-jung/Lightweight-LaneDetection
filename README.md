@@ -1,5 +1,5 @@
 # Lightweight-LaneDetection
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-lightweight-lane-detection-by-1/lane-detection-on-tusimple)](https://paperswithcode.com/sota/lane-detection-on-tusimple?p=towards-lightweight-lane-detection-by-1)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-lightweight-lane-detection-by/lane-detection-on-tusimple)](https://paperswithcode.com/sota/lane-detection-on-tusimple?p=towards-lightweight-lane-detection-by)
 
 
 Codes for  ["Towards Lightweight Lane Detection by Optimizing Spatial Embedding"](https://arxiv.org/abs/2008.08311)
